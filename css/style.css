@@ -77,7 +77,7 @@ body {
 .welcome-block {
     position: relative;
     padding: 0 0 130px 0;
-    background: url("/img/bg.jpg");
+    background: url("../img/bg.jpg");
     height: 110vh;
     background-size: cover;
     background-repeat: no-repeat;
